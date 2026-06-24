@@ -29,3 +29,4 @@ uploads/
 # Env
 .env
 .env.local
+docs/diagrams/
